@@ -2,7 +2,7 @@
 <h3 align="center"><font size="4" face="Monaco">Cloud and DevOps Enthusiast</h3>
 
 <!-- GIF -->
-<img align="right" height="300" width="300" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<img align="right" height="250" width="400" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
 
 
